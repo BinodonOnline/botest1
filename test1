@@ -6,3 +6,9 @@ https://arydigital.aryzap.com/966034be7058055a6c71056284c9fe12/66d7060d/v1/0183e
 https://aryzindagi.aryzap.com/ef765019ced3c32fb37d461bf4b067d1/66d7084d/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed5aa6ed04ac1/main.m3u8?|Referer=https://arydigital.aryzap.com//&key=BDStreamHub
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://lh3.googleusercontent.com/bS7CCJTsNdNwANvBbk5x2ekyMilOc1oToCrcTQ-bJNmDNNUMVKjpxB5YDm6ZbaSwZg", Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lt2jwFpTYjusceAsLlIE0B312SEUb4A4Du-rbN8n_STCg=s900-c-k-c0x00ffffff-no-rj", Geo Kahani
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://yt3.googleusercontent.com/CZORgT_CKKONkeHQY-_mxq1W6J1cU-QiI0yXI2Y208ZsVFAHXhXx81KgJV9cYOmW-8Li_Tj53A=s900-c-k-c0x00ffffff-no-rj", ARY Musik
+https://arymusik.aryzap.com/3c7c547935063e8ea9d34d690e59611c/66d74bb6/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nJhEDhyFyyJBsS4TBfeQY6ak7qjXmToqLJ7YQ-HuVGbSc=s900-c-k-c0x00ffffff-no-rj", Madani Channel Urdu
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
